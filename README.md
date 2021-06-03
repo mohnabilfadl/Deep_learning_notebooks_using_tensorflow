@@ -1,3 +1,5 @@
+## USE COLAB TO VIEW THESE FILES :)
+
 # Open In Colab Chrome Extension
 
 This is a simple chrome extension that, when clicked when viewing a Jupyter

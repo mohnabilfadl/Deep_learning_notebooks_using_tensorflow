@@ -1,6 +1,6 @@
 ## USE COLAB TO VIEW THESE FILES :)
 
-These notebooks are some practical deep learning Using tensor flow like : 
+These notebooks are some practical deep learning Using tensorflow like : 
 
 - Build and train neural networks using TensorFlow
 
@@ -9,7 +9,6 @@ These notebooks are some practical deep learning Using tensor flow like :
 - Teach machines to understand, analyze, and respond to human speech with natural language processing systems
 
 - Process text, represent sentences as vectors, and train a model to create original poetry!
-- 
 
 # Open In Colab Chrome Extension
 

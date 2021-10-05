@@ -1,5 +1,16 @@
 ## USE COLAB TO VIEW THESE FILES :)
 
+These notebooks are some practical deep learning Using tensor flow like : 
+
+- Build and train neural networks using TensorFlow
+
+- Improve your network’s performance using convolutions as you train it to identify real-world images
+
+- Teach machines to understand, analyze, and respond to human speech with natural language processing systems
+
+- Process text, represent sentences as vectors, and train a model to create original poetry!
+- 
+
 # Open In Colab Chrome Extension
 
 This is a simple chrome extension that, when clicked when viewing a Jupyter
